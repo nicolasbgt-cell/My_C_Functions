@@ -1,5 +1,5 @@
 ## 🇫🇷 Français
-Ce dépôt regroupe les fonctions développées durant ma **Piscine de Mars 2026**. L'objectif est de reconstruire des fonctions de la bibliothèque standard et de maîtriser les bases du langage C.
+L'objectif est de reconstruire des fonctions de la bibliothèque standard et de maîtriser les bases du langage C.
 
 ### 🧩 Fonctions implémentées :
 * **`ft_atoi`** : Convertit une chaîne de caractères en entier (int).
@@ -13,7 +13,7 @@ Ce dépôt regroupe les fonctions développées durant ma **Piscine de Mars 2026
 ---
 
 ## 🇬🇧 English
-This repository contains the functions I developed during my **March 2026 Piscine**. The goal was to recode standard library functions and master C programming fundamentals.
+The goal was to recode standard library functions and master C programming fundamentals.
 
 ### 🧩 Implemented Functions:
 * **`ft_atoi`** : Converts a string to an integer (int).
